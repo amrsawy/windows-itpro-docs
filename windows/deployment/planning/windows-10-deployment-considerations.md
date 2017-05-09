@@ -81,8 +81,6 @@ Note that the original Windows 8 release is only supported until January 2016. 
 
 For existing Windows PCs running Windows Vista, you can perform wipe-and-load (OS refresh) deployments when you use compatible hardware.
 
-Note that to take advantage of the limited-time free upgrade offer for PCs running Windows 7, Windows 8, or Windows 8.1, you must leverage an in-place upgrade, either from Windows Update or by using the upgrade media available from the [Windows 10 software download page](https://go.microsoft.com/fwlink/p/?LinkId=625073) to acquire a new Windows 10 license from the Windows Store. For more information, refer to the [Windows 10 FAQ](https://go.microsoft.com/fwlink/p/?LinkId=625074).
-
 For organizations with Software Assurance for Windows, both in-place upgrade or wipe-and-load can be leveraged (with in-place upgrade being the preferred method, as previously discussed).
 
 For organizations that do not take advantage of the free upgrade offer and are not enrolled in Software Assurance for Windows, Windows 10 upgrade licenses are available for purchase through existing Volume License (VL) agreements.
